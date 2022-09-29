@@ -19,6 +19,7 @@ body {
     background: url(bg2.jpg);
     background-size: cover;
     background-position: center;
+    height: 100%;
 }
 .banner-text h1{
     font-size: 300%;
